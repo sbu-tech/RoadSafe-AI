@@ -4,11 +4,17 @@ ROADSAFE AI
 ROADSAFE AI is an AI-based predictive tool designed to assess the risk of road accidents by analyzing various factors such as weather, road type, road conditions, traffic density, and time of day. By leveraging machine learning techniques, this tool identifies patterns in past accident data to forecast accident risk levels, helping to improve road safety.
 
 Table of Contents
+
 Introduction
+
 Features
+
 Data
+
 Model
+
 Results
+
 Future Improvements
 
 Introduction
