@@ -65,4 +65,7 @@ Integrating live data from sensors or API feeds for real-time predictions.
 Expanding features to cover additional variables such as specific location-based patterns.
 Improving model interpretability by visualizing the impact of each feature on risk prediction.
 
-With the ROADSAFE AI project, we aim to provide reliable predictions to support safer driving environments and reduce accident rates.
+The ROADSAFE AI project aims to deliver accurate predictions to promote safer driving conditions and decrease accident rates.
+
+
+
